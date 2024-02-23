@@ -2,13 +2,16 @@
 <h3 align="center">A passionate Pentester from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-- 🔭 I’m currently working on **Home**
+- 🔭 I’m currently 3rd year student at **Academy of Cryptography and Technique**
 
 - 🌱 I’m currently learning **Penatration Testing**
 
 - 📝 I regularly write articles on [https://hackmd.io/@tungtr9917](https://hackmd.io/@tungtr9917)
 
-- 📫 How to reach me **trantung01052003@gmail.com**
+- 📫 How to reach me
+   - Email: **trantung01052003@gmail.com**
+   - Phone: 0975615870
+   - Facebook: www.facebook.com/petertung17
 
 <p align="left">
 </p>
