@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 - 🔭 I’m currently 3rd year student at **Academy of Cryptography and Technique**
-
+- 👣  Majoring in Information Security !
 - 🌱 I’m currently learning **Penatration Testing**
 
 - 📝 I regularly write articles on [https://hackmd.io/@tungtr9917](https://hackmd.io/@tungtr9917)
