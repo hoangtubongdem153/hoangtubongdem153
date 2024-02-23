@@ -10,9 +10,8 @@
 
 - 📫 How to reach me
    - Email: **trantung01052003@gmail.com**
-   - Phone: 0975615870
    - Facebook: www.facebook.com/petertung17
-
+   - Phone: 0975615870
 <p align="left">
 </p>
 
