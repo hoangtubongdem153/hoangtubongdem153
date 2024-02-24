@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tung</h1>
 <h3 align="center">A passionate Pentester from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
 
 - 🔭 I’m currently 3rd year student at **Academy of Cryptography and Technique**
 - 👣  Majoring in Information Security !
