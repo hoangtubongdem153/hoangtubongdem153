@@ -11,10 +11,10 @@
 - 📝 I regularly write articles on [https://hackmd.io/@tungtr9917](https://hackmd.io/@tungtr9917)
 
 - 📫 How to reach me
+   - Zalo: 0975615870
    - Email: **trantung01052003@gmail.com**
    - Facebook: www.facebook.com/petertung17
    - Linkedin: https://www.linkedin.com/in/t%C3%B9ng-tr%E1%BA%A7n-thanh-2a4398284/
-   - Zalo: 0975615870
 <p align="left">
 </p>
 
