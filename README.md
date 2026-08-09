@@ -14,7 +14,7 @@
    - Zalo: 0975615870
    - Email: **trantung01052003@gmail.com**
    - Facebook: www.facebook.com/petertung17
-   - Linkedin: https://www.linkedin.com/in/t%C3%B9ng-tr%E1%BA%A7n-thanh-2a4398284/
+   - Linkedin: https://www.linkedin.com/in/hoangtubongdem153/
 <p align="left">
 </p>
 
